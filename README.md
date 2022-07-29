@@ -8,7 +8,7 @@ I'm excited about combining my passion of problem solving and creativity by deve
 ### Portfolio Projects
 - <a href="https://github.com/yeseniaramirez14/overrated">Overrated</a>
   - Dating web application where users can efficiently find their soulmate by weeding out bad seeds with the implementation of dating ratings of a user
-- <a href="https://github.com/yeseniaramirez14/car-car">Car Car</a>
+- <a href="https://github.com/yeseniaramirez14/stay-classic">Stay Classic</a>
   - Web application that is the complete solution to the needs of a dealership operation including sales and car services
 - <a href="https://github.com/yeseniaramirez14/chic-events">Chic Events</a>
   - Event planning web application for booking the perfect package to create a stress-free and chic experience with all your guests
