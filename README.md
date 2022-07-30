@@ -6,6 +6,7 @@ I'm excited about combining my passion of problem solving and creativity by deve
 
 
 ### Portfolio Projects
+- <a href="https://www.yeseniar.dev"> Personal Portfolio Website </a>
 - <a href="https://github.com/yeseniaramirez14/overrated">Overrated</a>
   - Dating web application where users can efficiently find their soulmate by weeding out bad seeds with the implementation of dating ratings of a user
 - <a href="https://github.com/yeseniaramirez14/stay-classic">Stay Classic</a>
@@ -24,6 +25,7 @@ I'm excited about combining my passion of problem solving and creativity by deve
 
 
 ### Contact Me
+<a href="https://www.yeseniar.dev"><img src="https://iili.io/SjC7u2.png" width="50"></a>
 <a href="https://www.linkedin.com/in/yeseniaramirez14/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
