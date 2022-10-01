@@ -3,8 +3,10 @@
 <div align="center">
 
 ## <b>I'm a full stack engineer based in Austin, TX ☀️</b>
+### Interested in software and data 😄
 
-I'm excited about combining my passion of problem solving and creativity by developing efficient and user friendly web applications. I’m an adaptable, collaborative, and determined software engineer who loves the ever-changing programming landscape and the challenge of learning new tools, editors, programming languages, and frameworks to create useful software for users.
+I'm excited about combining my passion of problem solving and creativity by developing efficient and user friendly web applications. I’m an adaptable, collaborative, and determined software engineer who loves the ever-changing programming landscape and the challenge of learning new tools, editors, programming languages, and frameworks to create useful software for users. I also am interested in data engineering and have been working on personal projects on the side that you can check out in my repos.
+
 <br><hr>
 ## Portfolio Projects 💼 
 <a href="https://www.yeseniar.dev">yeseniar.dev</a><br>
@@ -13,6 +15,8 @@ Personal portfolio website
 <a href="https://github.com/yeseniaramirez14/overrated">Overrated</a> <br>
 A dating web application where users can efficiently find their soulmate by weeding out bad seeds with the implementation of dating ratings of a user
 
+<a href="https://github.com/yeseniaramirez14/onramp_project/tree/main/submissions">Spotify Data Analysis</a> <br>
+Data analysis of 20 of my favorite artists including visualizations
 
 <a href="https://github.com/yeseniaramirez14/stay-classic">Stay Classic</a> <br>
 A web application that has all the needs to operate a car dealership, including inventory, sales and services
@@ -25,10 +29,11 @@ An event planning web application that allows a user to browse different event p
 ## Technical Skills 👾
 JavaScript(ES6) | React | HTML5 | CSS3 <br>
 Python 3 | Django | FastAPI | MongoDB | SQL/PostgreSQL | RESTful API Dev <br>
+Pandas | Matplotlib | Seaborn <br>
 Monoliths | Microservices | Domain-Driven Design | Message Passing | Event Sourcing <br>
 Git | Docker | Heroku | Insomnia
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <br> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <br> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <br> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-07405E?style=for-the-badge&logo="> <img src="https://img.shields.io/badge/seaborn-07405E?style=for-the-badge&logo="> 
 
 <br><hr>
 ## How to reach me 💬
