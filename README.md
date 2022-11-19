@@ -15,6 +15,9 @@ Personal portfolio website
 <a href="https://github.com/yeseniaramirez14/overrated">Overrated</a> <br>
 A dating web application where users can efficiently find their soulmate by weeding out bad seeds with the implementation of dating ratings of a user
 
+<a href="https://github.com/yeseniaramirez14/seeking-events">Seeking Events</a> <br>
+An event booking website where employees from an organization can create events for users to sign up for. Users will be able to search for events depending on location or category and view all their past and upcoming events.
+ 
 <a href="https://github.com/yeseniaramirez14/spotify_data_analysis">Spotify Data Analysis</a> <br>
 Data analysis of 20 of my favorite artists including visualizations
 
