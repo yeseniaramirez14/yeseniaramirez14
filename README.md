@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## <b>I'm a full stack engineer based in Austin, TX ☀️</b>
+## <b>I'm a full stack engineer based in Texas ☀️</b>
 ### Interested in software and data 😄
 
 I'm excited about combining my passion of problem solving and creativity by developing efficient and user friendly web applications. I’m an adaptable, collaborative, and determined software engineer who loves the ever-changing programming landscape and the challenge of learning new tools, editors, programming languages, and frameworks to create useful software for users. I also am interested in data engineering and have been working on personal projects on the side that you can check out in my repos.
