@@ -3,7 +3,6 @@
 <div align="center">
 
 ## <b>I'm a full stack engineer based in Texas ☀️</b>
-### Interested in software and data 😄
 
 I'm excited about combining my passion of problem solving and creativity by developing efficient and user friendly web applications. I’m an adaptable, collaborative, and determined software engineer who loves the ever-changing programming landscape and the challenge of learning new tools, editors, programming languages, and frameworks to create useful software for users. 
 
@@ -26,7 +25,6 @@ Data analysis of 20 of my favorite artists including visualizations
 
 <a href="https://github.com/yeseniaramirez14/stay-classic">Stay Classic</a> <br>
 A web application that has all the needs to operate a car dealership, including inventory, sales and services
-
 
 <a href="https://github.com/yeseniaramirez14/chic-events">Chic Events</a> <br>
 An event planning web application that allows a user to browse different event packages, book a reservation and contact the owner
