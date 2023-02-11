@@ -8,7 +8,7 @@ I'm excited about combining my passion of problem solving and creativity by deve
 
 <br><hr>
 ## Portfolio Projects 💼 
-<a href="https://www.yeseniar.dev">yeseniar.dev</a><br>
+<a href="https://yeseniar.dev/">yeseniar.dev</a><br>
 Personal portfolio website
 
 <a href="https://github.com/yeseniaramirez14/overrated">Overrated</a> <br>
