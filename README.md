@@ -43,7 +43,7 @@ Git | Docker | Heroku | Insomnia
 
 <br><hr>
 ## How to reach me 💬
-<a href="https://www.yeseniar.dev"><img src="https://img.shields.io/badge/yeseniar.dev-F0D1D4?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/yeseniaramirez14/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://yeseniar.dev/"><img src="https://img.shields.io/badge/yeseniar.dev-F0D1D4?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/yeseniaramirez14/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 <!--
