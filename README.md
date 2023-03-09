@@ -11,11 +11,11 @@ I'm excited about combining my passion of problem solving and creativity by deve
 <a href="https://yeseniar.dev/">yeseniar.dev</a><br>
 Personal portfolio website
 
+  <a href="https://github.com/yeseniaramirez14/commoncrave">Common Crave</a> <br>
+A restaurant recommendation website where friends can create groups to find a restaurant sharing their common craving that is located in the mid-point of everyone in the group.
+ 
 <a href="https://github.com/yeseniaramirez14/overrated">Overrated</a> <br>
 A dating web application where users can efficiently find their soulmate by weeding out bad seeds with the implementation of dating ratings of a user
-
- <a href="https://github.com/yeseniaramirez14/commoncrave">Common Crave</a> <br>
-A restaurant picking website where friends can create groups to find a restaurant sharing their common craving that is located in the mid-point of everyone in the group.
  
 <a href="https://github.com/yeseniaramirez14/seeking-events">Seeking Events</a> <br>
 An event booking website where employees from an organization can create events for users to sign up for. Users will be able to search for events depending on location or category and view all their past and upcoming events.
